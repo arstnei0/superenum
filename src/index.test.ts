@@ -1,4 +1,4 @@
-import { Enum } from "./unsafe"
+import { Enum } from "."
 
 type Data = string
 const Response = Enum<{
