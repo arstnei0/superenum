@@ -1,7 +1,7 @@
 {
 	"name": "superenum",
 	"description": "Enums superpowered",
-	"version": "0.0.1",
+	"version": "0.0.3",
 	"type": "module",
 	"scripts": {
 		"build": "vite build",
@@ -12,6 +12,8 @@
 		"dev": "vitest dev"
 	},
 	"dependencies": {
+		"@changesets/cli": "^2.26.0",
+		"terser": "^5.16.4",
 		"type-fest": "^3.5.7",
 		"typescript": "5.0.0-beta",
 		"zod": "^3.20.6"
