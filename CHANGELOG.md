@@ -1,5 +1,11 @@
 # superenum
 
+## 0.0.4
+
+### Patch Changes
+
+-   Sorry I forgot to build before publishing the package...
+
 ## 0.0.3
 
 ### Patch Changes
